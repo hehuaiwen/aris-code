@@ -1,0 +1,54 @@
+{
+  "3": {
+    "M": 3,
+    "n_outer": 8,
+    "n_switch": 0,
+    "order_dynamic_final": [
+      1,
+      2,
+      0
+    ],
+    "order_fixed_final": [
+      1,
+      2,
+      0
+    ],
+    "R_dyn_bps": 783622.1481328272,
+    "R_fix_bps": 783622.1481328272,
+    "G_dyn_pct": 0.0,
+    "strategies_bps": {
+      "best_enumerated": 780896.4143964653,
+      "dynamic": 780247.2450032939,
+      "fixed_initial": 780247.2450032939,
+      "distance": 732164.0925618565,
+      "random": 749287.2548756605
+    }
+  },
+  "4": {
+    "M": 4,
+    "n_outer": 8,
+    "n_switch": 0,
+    "order_dynamic_final": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "order_fixed_final": [
+      1,
+      2,
+      0,
+      3
+    ],
+    "R_dyn_bps": 554659.1209843657,
+    "R_fix_bps": 554659.1209843657,
+    "G_dyn_pct": 0.0,
+    "strategies_bps": {
+      "best_enumerated": 555095.3881882549,
+      "dynamic": 553833.3126268805,
+      "fixed_initial": 553833.3126268805,
+      "distance": 499989.10519191733,
+      "random": 521633.71645731496
+    }
+  }
+}

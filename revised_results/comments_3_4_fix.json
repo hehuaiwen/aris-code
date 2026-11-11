@@ -1,0 +1,55 @@
+{
+  "comment3_percentile": {
+    "maxmin": {
+      "n_topologies": 50,
+      "n_samples": 250,
+      "p5_mbps": 0.6234301712944599,
+      "p10_mbps": 0.6306590598987926,
+      "min_mbps": 0.6034716888720466,
+      "mean_mbps": 0.6484376349975182
+    },
+    "propfair": {
+      "n_topologies": 50,
+      "n_samples": 250,
+      "p5_mbps": 0.4574214584453982,
+      "p10_mbps": 0.4799546128898281,
+      "min_mbps": 0.422874702832335,
+      "mean_mbps": 0.6688538061296109
+    },
+    "weighted": {
+      "n_topologies": 50,
+      "n_samples": 250,
+      "p5_mbps": 0.5431182170296917,
+      "p10_mbps": 0.5458468472867086,
+      "min_mbps": 0.5215998552908753,
+      "mean_mbps": 0.6214122980125489
+    }
+  },
+  "comment4_reconcile": {
+    "grid_cfg": [
+      90.0,
+      0.0,
+      30.0,
+      [
+        1,
+        0
+      ]
+    ],
+    "sur_grid_bps": 1654937.9442865918,
+    "mc_grid_bps": 1145997.8429355733,
+    "sur_afoa_bps": 1652859.3767395394,
+    "mc_afoa_bps": 1141926.699550173,
+    "sur_afoa_over_grid_pct": 99.87440208533327,
+    "mc_afoa_over_grid_pct": 99.64475121742187,
+    "jensen_gap_grid_pct": 44.410214599298385,
+    "jensen_gap_afoa_pct": 44.74303625535971,
+    "multiinit": {
+      "n_init": 30,
+      "mean_bps": 1144153.6692893966,
+      "std_bps": 3546.5874567994265,
+      "best_bps": 1153236.8496962013,
+      "worst_bps": 1138005.5509477982,
+      "cv_pct": 0.3099747483222352
+    }
+  }
+}

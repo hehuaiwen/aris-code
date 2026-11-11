@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Caches / IDEs
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.idea/
+.vscode/
+*.swp
+
+# Generated artifacts
+*.log
+*.pdf
+*.png
+*.jpg
+*.svg
+*.rar
+*.zip
+*.gz
+
+# Data snapshots and result dumps
+logs/
+results/
+main_figs/
+preview_figs/
+new_pic/
+adjusted_data_snapshot_*/
+jensen_validation_results/
+
+# OS
+.DS_Store
+Thumbs.db

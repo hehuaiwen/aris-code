@@ -1,0 +1,40 @@
+{
+  "names": [
+    "Proposed\n+ equal CPU",
+    "Proposed\n+ delay-aware",
+    "OMA-AIRS\n+ equal CPU",
+    "No-IRS PD-NOMA\n+ equal CPU",
+    "Opt. GIRS\n+ equal CPU",
+    "Fixed-resource\n+ equal CPU"
+  ],
+  "T_max": [
+    1.8581969956376765,
+    1.775908488582206,
+    2.8775949960100933,
+    1.8959275753312954,
+    1.7803241231223033,
+    2.800505062106608
+  ],
+  "T_avg": [
+    1.6340483637041232,
+    1.775908488582206,
+    2.1786433702128702,
+    1.6883767376393926,
+    1.5392444852903577,
+    1.9790452919439807
+  ],
+  "reduction_pct": {
+    "Proposed\n+ equal CPU": 33.64779015111312,
+    "Proposed\n+ delay-aware": 36.586135386367616,
+    "OMA-AIRS\n+ equal CPU": -2.752715392183446,
+    "No-IRS PD-NOMA\n+ equal CPU": 32.30051246880688,
+    "Opt. GIRS\n+ equal CPU": 36.42846259370443,
+    "Fixed-resource\n+ equal CPU": 0.0
+  },
+  "base_T_max": 2.800505062106608,
+  "girs_best_Q": [
+    95.0,
+    0.0,
+    10.0
+  ]
+}
